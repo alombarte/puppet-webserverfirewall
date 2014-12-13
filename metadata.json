@@ -1,0 +1,12 @@
+{
+    "name": "alombarte-webserverfirewall",
+    "version": "0.1",
+    "author": "Albert Lombarte",
+    "summary": "Sets a typical firewall for a web server",
+    "license": "Apache 2.0",
+    "source": "https://github.com/sifophp/sifo-provisioning.git",
+    "project_page": "https://github.com/sifophp/sifo-provisioning",
+    "dependencies": [
+        { "name": "puppetlabs/firewall", "version_requirement": "1.2" }
+    ]
+}
